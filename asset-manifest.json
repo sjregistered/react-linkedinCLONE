@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-linkedinCLONE/static/css/main.d40a7b20.chunk.css",
+    "main.js": "/react-linkedinCLONE/static/js/main.8c5868c3.chunk.js",
+    "main.js.map": "/react-linkedinCLONE/static/js/main.8c5868c3.chunk.js.map",
+    "runtime-main.js": "/react-linkedinCLONE/static/js/runtime-main.7fae1ec1.js",
+    "runtime-main.js.map": "/react-linkedinCLONE/static/js/runtime-main.7fae1ec1.js.map",
+    "static/js/2.ccc52f45.chunk.js": "/react-linkedinCLONE/static/js/2.ccc52f45.chunk.js",
+    "static/js/2.ccc52f45.chunk.js.map": "/react-linkedinCLONE/static/js/2.ccc52f45.chunk.js.map",
+    "index.html": "/react-linkedinCLONE/index.html",
+    "static/css/main.d40a7b20.chunk.css.map": "/react-linkedinCLONE/static/css/main.d40a7b20.chunk.css.map",
+    "static/js/2.ccc52f45.chunk.js.LICENSE.txt": "/react-linkedinCLONE/static/js/2.ccc52f45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fae1ec1.js",
+    "static/js/2.ccc52f45.chunk.js",
+    "static/css/main.d40a7b20.chunk.css",
+    "static/js/main.8c5868c3.chunk.js"
+  ]
+}
